@@ -1,0 +1,34 @@
+_repo: Siddhartha_2500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Lauscher, Hermann
+    - Sinclair, Emil
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Hesse
+description: 'Part 1: The Brahmins son ; With the Samanas ; Gotama ; Awakening. --
+  Part 2: Kamala ; Amongst the people ; Samsara ; By the river ; The ferryman ; The
+  son ; Om ; Govinda.'
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Buddhist philosophy -- Fiction'
+- !lcsh 'India -- Fiction'
+- !lcsh 'Religious fiction'
+- !lcsh 'Buddhism -- Fiction'
+- !lcsh 'Gautama Buddha -- Fiction'
+- GITenberg
+title: Siddhartha
+url: http://www.gutenberg.org/ebooks/2500
