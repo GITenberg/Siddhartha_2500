@@ -1,5 +1,8 @@
 _repo: Siddhartha_2500
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -14,6 +17,8 @@ creator:
 description: 'Part 1: The Brahmins son ; With the Samanas ; Gotama ; Awakening. --
   Part 2: Kamala ; Amongst the people ; Samsara ; By the river ; The ferryman ; The
   son ; Om ; Govinda.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2500#Siddhartha
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
 identifiers:
